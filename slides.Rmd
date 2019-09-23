@@ -16,8 +16,76 @@ library(knitr)
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## Slide title
 
-- Bullet point
-- Bullet point with *italic text*
-- Bullet point with **bold text**
+## Background
+
+- The Information Services Division (ISD) of the National Health Service (NHS) Scotland produces around 200 official and national statistics publications each year.
+- Traditional publication output is a **static pdf document** with accompanying **excel tables**.
+
+```{r out.width = "50%", fig.align = 'center'}
+include_graphics(here::here("images", "pdf_report.png"))
+```
+
+
+## Why change?
+
+<p class="comment">
+"Users of statistics and data should be at the centre of statistical production; their needs should be understood, their views sought and acted upon, and their use of statistics supported."
+</p>
+
+<p style="text-align: right"> <a href="https://www.statisticsauthority.gov.uk/wp-content/uploads/2018/02/Code-of-Practice-for-Statistics.pdf">- UKSA Code of Practice for Statistics, 2018</a></p>
+
+
+## The Transforming Publishing Programme (TPP)
+
+- Created in
+
+
+## TPP's aim
+
+- Insert image
+
+
+## What tools do we use?
+
+- Bullet points
+
+
+## What is Shiny?
+
+- Bullet points
+
+
+## The user research process
+
+- Insert image
+
+
+## Psychiatric Inpatient Activity
+
+- Bullet points + link
+
+
+## User feedback
+
+- Insert image
+
+
+## Other Shiny apps in ISD
+
+- Links
+
+
+## The limitations of Shiny
+
+- Bullet points
+
+
+## The future of Shiny in ISD
+
+- Bullet points
+
+
+## Final slide
+
+- Links
