@@ -54,6 +54,8 @@ include_graphics(here::here("images", "vision_poster.png"))
 
 ## TPP's Approach
 
+- Moving the back-end of publications from SPSS and Excel to R
+
 - Replacing PDF reports with web applications built using Shiny and D3
 
 - Using git and [GitHub](https://github.com/NHS-NSS-transforming-publications) for version control and peer review
