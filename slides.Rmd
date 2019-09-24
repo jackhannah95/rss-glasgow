@@ -36,14 +36,20 @@ include_graphics(here::here("images", "pdf_report.png"))
 <p style="text-align: right"> <a href="https://www.statisticsauthority.gov.uk/wp-content/uploads/2018/02/Code-of-Practice-for-Statistics.pdf">- UKSA Code of Practice for Statistics, 2018</a></p>
 
 
-## The Transforming Publishing Programme (TPP)
+## The Transforming Publishing Programme
 
-- Created in
+- The Transforming Publishing Programme (TPP) was devised to modernise the way in which ISD produces and presents its statistics
+
+- It's been through many iterations, but mostly operates by "borrowing" staff with particular skills (e.g. R, visualisation, user research, etc.) from other teams within ISD
+
+- Uses "Agile" methodology for project management
 
 
-## TPP's aim
+## TPP's "vision"
 
-- Insert image
+```{r out.width = "60%", fig.align = 'center'}
+include_graphics(here::here("images", "vision_poster.png"))
+```
 
 
 ## What tools do we use?
